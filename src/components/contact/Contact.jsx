@@ -13,12 +13,12 @@ const Contact = () => {
     <div className="contact container mt" id='contact'>
     <h1 className=' text-light'>Contact Me</h1>
     <div className="contact-icon">
-      <a href='https://www.instagram.com/the_fury____/' target='_blank' className="itemss">
+      <a href='https://www.instagram.com/theanadi7/profilecard/?igsh=MTk1dTZjeXBjaTN3eQ==/' target='_blank' className="itemss">
         <FaInstagram  className='icons'/>
       </a>
-      <a href='' target='_blank' className="itemss">
+      {/* <a href='' target='_blank' className="itemss">
         <FaFacebook className='icons'/>
-      </a>
+      </a> */}
       <a href='https://linkedin.com/in/anadi-patra-67723629a' target='_blank' className="itemss">
         <FaLinkedin className='icons'/>
       </a>
